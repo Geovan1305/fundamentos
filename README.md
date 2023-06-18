@@ -1,2 +1,2 @@
-# fundamentos
+# fundamentos JavaScript
  Fundamentos JS
